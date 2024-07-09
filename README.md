@@ -9,4 +9,9 @@
 - Find mean, mode, median, min, max, pearsons coeff
 - find relationships in differrent time periods, times of the day
 - use this data to find some relationship and explain it
+## Step 3.1: Learn
+- pivot tables
+- slicing 
+- grouping
+- summary statistics using loc and groupby
 ## Step 4: plot the data and visualize predictions
