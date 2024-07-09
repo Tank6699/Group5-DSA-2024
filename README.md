@@ -13,6 +13,6 @@ https://explore.openaq.org/#1.2/20/40...website
 ## Step 3.1: Learn
 - pivot tables
 - slicing 
-- grouping
+- grouping.....
 - summary statistics using loc and groupby
 ## Step 4: plot the data and visualize predictions
