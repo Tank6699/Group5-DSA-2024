@@ -5,3 +5,8 @@
 - Suchang Dong csv compiled by Michele
 ## Step 2: Combining Files using Pandas
 - combine files using pandas into one large csv file for all countries
+## Step 3: Summary statistics
+- Find mean, mode, median, min, max, pearsons coeff
+- find relationships in differrent time periods, times of the day
+- use this data to find some relationship and explain it
+## Step 4: plot the data and visualize predictions
