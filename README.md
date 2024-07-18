@@ -17,4 +17,11 @@ https://explore.openaq.org/#1.2/20/40...website
 - summary statistics using loc and groupby
 ## Step 4: plot the data and visualize predictions
 - LA Analysis Done by Tanveer
+    - 24 hour levels
+    - 6 month index levels
+    - comparison against WHO safety guidelines
+- Bucharest Analysis Done by Tanveer
+  - 24 hr levels
+  - 6 months index levels
+  - comparison against WHO safety guideline
 
