@@ -24,4 +24,10 @@ https://explore.openaq.org/#1.2/20/40...website
   - 24 hr levels
   - 6 months index levels
   - comparison against WHO safety guideline
+## Step 5: Compile Data 
+- have compiled notebook/s with all analysis
+- Compare and make conclusions
+- transfer to Powerpoint Somehow
+
+
 
