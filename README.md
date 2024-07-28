@@ -1,3 +1,6 @@
+# URGENT!!
+- only work posted by july 28 is by BU, LA and nicosia
+- PLEASE POST WORK ASAP! DUE IN 2/4 DAYS
 # Group5-DSA-2024
 https://explore.openaq.org/#1.2/20/40...website
 ## Step 1: Downloading csv files
