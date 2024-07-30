@@ -8,11 +8,14 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 Once the Data was in the Directory, we combined the Data.
 Below is an example of the code used:
       <img width="464" alt="image" src="https://github.com/user-attachments/assets/0045a504-947d-4064-8685-82594355670f">
+      
 ## Step 2: Importing the Data as Dataframe:
   <img width="349" alt="image" src="https://github.com/user-attachments/assets/4d75ba7c-d124-4333-ba37-929b47729519">
+  
 ### Viewing the data: 
 An example of how the data looks:
     <img width="568" alt="image" src="https://github.com/user-attachments/assets/2e13af1d-63cb-4094-9a4e-3da6505213a8">
+    
 #### Variables:
 - **`location_id`**: A unique identifier for the monitoring location. Each city has different location IDs.
 - **`location_name`**: The name or identifier of the monitoring station. This varies between locations in Bucharest, Los Angeles, and Molina de Segura.
@@ -65,7 +68,7 @@ An example of how the data looks:
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/c293805b-c3f4-4a18-b004-a173d6507682">
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/b8a18f06-40b7-40c2-a6f6-dea3e1e5b9af">
 
-- Some possible explanations of the Data were then deduced:
+Some possible explanations of the Data were then deduced:
   <img width="896" alt="image" src="https://github.com/user-attachments/assets/b3a20a9e-f6ce-4e3e-a36e-b76494b9935d">
   
 ## Step 6: Comparison between the Different countries
