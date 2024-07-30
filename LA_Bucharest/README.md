@@ -59,14 +59,19 @@ An example of how the data looks:
 - An Example of AQI Distribution:
         <img width="778" alt="image" src="https://github.com/user-attachments/assets/6d8ec22c-9975-4a1a-85c9-3d930be56e6f">
         ![image](https://github.com/user-attachments/assets/0923f843-f7a0-46c2-aacc-169f3c7570cc)
+  
 ## Step 5: Analysis of the Daata and Visualizations:
 - Examples of side by side analysis of the different visualizations:
 <img width="867" alt="image" src="https://github.com/user-attachments/assets/c293805b-c3f4-4a18-b004-a173d6507682">
 <img width="884" alt="image" src="https://github.com/user-attachments/assets/b8a18f06-40b7-40c2-a6f6-dea3e1e5b9af">
+
 - Some possible explanations of the Data were then deduced:
   <img width="896" alt="image" src="https://github.com/user-attachments/assets/b3a20a9e-f6ce-4e3e-a36e-b76494b9935d">
+  
 ## Step 6: Comparison between the Different countries
+
 ## Step 7: Summary of our findings
+
 ## Step 8: Conclusion
 
       
