@@ -28,7 +28,7 @@ https://explore.openaq.org/#1.2/20/40...website
   - 24 hr levels
   - 6 months index levels
   - comparison against WHO safety guideline
-- Molina De Segura Notebook donw by AMbacjow
+- Molina De Segura Notebook donw by Ambachow
 - Comarative Analysis done by Ambachow
 ## Step 5: Compile Data 
 - have compiled notebook/s with all analysis
