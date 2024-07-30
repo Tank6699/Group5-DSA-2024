@@ -1,41 +1,6 @@
-# URGENT!!
-- only work posted by july 28 is by BU, LA and nicosia
-- PLEASE POST WORK ASAP! DUE IN 2/4 DAYS
-# Group5-DSA-2024
-https://explore.openaq.org/#1.2/20/40...website
-## Step 1: Downloading csv files
-- downloading 6 months csv files from AQ air quality webiste (Openaq) 6 months from  January 4, 2025 to July 4, 2024.
-- LA and Bucharest csv compiled by Tanveer
-- Suchang Dong csv compiled by Michele
-- -Combined csv done by Ambachow
 
-## Step 2: Combining Files using Pandas
-- combine files using pandas into one large csv file for all countries
-## Step 3: Summary statistics
-- Find mean, mode, median, min, max, pearsons coeff
-- find relationships in differrent time periods, times of the day
-- use this data to find some relationship and explain it
-## Step 3.1: Learn
-- pivot tables
-- slicing 
-- grouping.....
-- summary statistics using loc and groupby
-## Step 4: plot the data and visualize predictions
-- Group Combined of LA, BU and Molina(Ambachow), compiled by Tanveer
-- LA Analysis Done by Tanveer
-    - 24 hour levels
-    - 6 month index levels
-    - comparison against WHO safety guidelines
-- Bucharest Analysis Done by Tanveer
-  - 24 hr levels
-  - 6 months index levels
-  - comparison against WHO safety guideline
-- Molina De Segura Notebook donw by Ambachow
-- Comarative Analysis done by Ambachow
-## Step 5: Compile Data 
-- have compiled notebook/s with all analysis
-- Compare and make conclusions
-- transfer to Powerpoint Somehow
+- <img width="1329" alt="image" src="https://github.com/user-attachments/assets/03497da5-06f7-453f-9696-177b6299f3ff">
+
 
 
 
