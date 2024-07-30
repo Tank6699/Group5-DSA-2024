@@ -8,7 +8,6 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 - [Data Collection](#data-collection)
 - [Data Exploration and Analysis](#data-exploration-and-analysis)
 - [Visualization and Interpretation](#visualization-and-interpretation)
-- [Optional Extensions](#optional-extensions)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
@@ -43,11 +42,6 @@ We create compelling visualizations to represent our findings using matplotlib a
 - Pie charts for parameter distribution and trend graphs.
 
 We then interpret the results and discuss potential reasons behind air quality trends and differences between cities or regions.
-
-## Optional Extensions
-
-- **Predictive Modeling:** Use basic machine learning models from sklearn to predict future AQI levels based on historical data.
-- **Impact of Events:** Analyze the impact of specific events (e.g., New Year's Eve, major wildfires, policy changes) on air quality.
 
 ## Dataset
 
