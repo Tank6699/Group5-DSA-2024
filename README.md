@@ -8,7 +8,7 @@ https://explore.openaq.org/#1.2/20/40...website
 - LA and Bucharest csv compiled by Tanveer
 - Suchang Dong csv compiled by Michele
 - -Combined csv done by Ambachow
-- Group Combined of LA, BU and Molina(Ambachow), compiled bu Tanveer
+
 ## Step 2: Combining Files using Pandas
 - combine files using pandas into one large csv file for all countries
 ## Step 3: Summary statistics
@@ -21,6 +21,7 @@ https://explore.openaq.org/#1.2/20/40...website
 - grouping.....
 - summary statistics using loc and groupby
 ## Step 4: plot the data and visualize predictions
+- Group Combined of LA, BU and Molina(Ambachow), compiled by Tanveer
 - LA Analysis Done by Tanveer
     - 24 hour levels
     - 6 month index levels
