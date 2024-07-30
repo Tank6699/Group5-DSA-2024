@@ -10,7 +10,7 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 - [Visualization and Interpretation](#visualization-and-interpretation)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 
@@ -58,6 +58,4 @@ We then interpret the results and discuss potential reasons behind air quality t
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to our coding standards and includes appropriate tests.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
