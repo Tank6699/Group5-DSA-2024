@@ -22,7 +22,7 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 
 **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
-# Datasets
+# Datasets for this project
 -All the data sets are found in folder called NewCombined.
 -the data sets are downloaded from OPenAq website.
 -This data is only from 01 Jan-01 July 2024 only.
