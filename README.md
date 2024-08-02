@@ -57,5 +57,3 @@ We then interpret the results and discuss potential reasons behind air quality t
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to our coding standards and includes appropriate tests.
-
-
