@@ -24,7 +24,7 @@ The objective of this project is to analyze and visualize air quality data globa
 - [Contributors](#contributors)
 - [Data Collection](#data-collection)
 - [Dataset](#dataset)
-- [How to access the code]
+- [Contributors](#contributors)
 - [Data Exploration and Analysis](#data-exploration-and-analysis)
 - [Visualization and Interpretation](#visualization-and-interpretation)
 - [Contributing](#contributing)
