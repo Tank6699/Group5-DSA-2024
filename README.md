@@ -14,6 +14,9 @@
 
 This project leverages OpenAQ, a comprehensive platform that aggregates and shares open air quality data globally, to conduct a detailed analysis of air quality indices (AQI). The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project uses Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
 
+## Objective
+
+The objective of this project is to analyze and visualize air quality data globally to understand trends and variations, and to assess the impact of various events on air quality. Through this analysis, we aim to provide actionable insights and contribute to better air quality management practices
 
 ## Table of Contents
 - [Contributors](#contributors)
