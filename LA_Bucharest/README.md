@@ -71,11 +71,10 @@ An example of how the data looks:
 Some possible explanations of the Data were then deduced:
   <img width="896" alt="image" src="https://github.com/user-attachments/assets/b3a20a9e-f6ce-4e3e-a36e-b76494b9935d">
   
-## Step 6: Comparison between the Different countries
 
 ## Step 7: Summary of our findings
+can be found in the PDF linked : [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/LA_Bucharest/ANALYSIS_Report.pdf)
 
-## Step 8: Conclusion
 
       
 
