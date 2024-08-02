@@ -6,12 +6,18 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 
 
 ## Table of Contents
+- [Contributors](#contributors)
 - [Data Collection](#data-collection)
 - [Data Exploration and Analysis](#data-exploration-and-analysis)
 - [Visualization and Interpretation](#visualization-and-interpretation)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
-- [Contributors](#contributors)
+
+
+# Contributors
+1. Ambachow Kahsay 670550
+2. Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
+
 
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
@@ -80,7 +86,5 @@ standards and includes appropriate tests.
 _To run succesfully the code,
 1. go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024" (The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
 
-# Contributors
-1. Ambachow Kahsay 670550
-2. Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
+
     
