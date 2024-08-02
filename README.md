@@ -33,7 +33,7 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 - This data is only from 01 Jan-01 July 2024 only.
 - Detailed Analysis of LA, Bucharest and Molina de Segura can be found [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/Tanveer_Group_Compiled_.ipynb)
 - Genral Analysis and procedure can be found in [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/LA_Bucharest/README.md)
-- you can go to "G_5_DSA_project.ipynb " file if you want to access the code we used for our project
+- you can go click this file, [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/G_5_DSA_project.ipynb), if you want to access the CODE we used for our project
 # About The Dataset
 ### Key Features
 - **Areas of Coverage:** Data from five stations,Nairobi, Los Angles,Bucharest,Madrid and Rome. and Also we ahve tried to include Nicosia, Suchang_Dong.
