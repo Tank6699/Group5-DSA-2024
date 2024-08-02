@@ -16,8 +16,11 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 -All the data sets are found in folder called NewCombined.
 -the data sets are downloaded from OPenAq website.
 -This data is only from 01 Jan-01 July 2024 only.
--you can "G_5_DSA_project.ipynb " file if you want to access the code we used for our project
-
+-want to access the code we used for our project
+# How to access the code
+-the file code for this project is named  "G_5_DSA_project.ipynb " you can acess it from files
+_To run succesfully the code,
+1. go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024".
 # How to Access the Data
 
 **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
