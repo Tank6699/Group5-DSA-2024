@@ -17,6 +17,7 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 # Contributors
 1. Ambachow Kahsay 670550
 2. Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
+3. Mitchel Makena 667413 
 
 
 ## Data Collection
