@@ -66,3 +66,7 @@ standards and includes appropriate tests.
 -the file code for this project is named  "G_5_DSA_project.ipynb " you can acess it from files
 _To run succesfully the code,
 1. go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024" (The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
+
+# Contributors
+1. Ambachow Kahsay 670550
+2. 
