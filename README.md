@@ -1,3 +1,12 @@
+
+# Contributors
+1. Ambachow Kahsay 670550 (aykahsay)
+2. Tanveer Omar 670752 (TanveerD1)[here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
+3. Mitchel Makena 667413 (MMMakena)
+4. Peter Kidiga 671341 (kidigapeet)
+
+
+
 # Analyzing Global Air Quality Index (AQI) Data
 
 ## Overview
@@ -13,12 +22,6 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 - [Dataset](#dataset)
 - [Contributing](#contributing)
 
-
-# Contributors
-1. Ambachow Kahsay 670550
-2. Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
-3. Mitchel Makena 667413
-4. Peter Kidiga 671341
 
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
