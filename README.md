@@ -5,11 +5,11 @@
 This project leverages OpenAQ, a comprehensive platform that aggregates and shares open air quality data globally, to conduct a detailed analysis of air quality indices (AQI). The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project uses Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
 
 ## Table of Contents
-[Data Collection](#data-collection)
-[Data Exploration and Analysis](#data-exploration-and-analysis)
-[Visualization and Interpretation](#visualization-and-interpretation)
-[Dataset](#dataset)
-[Contributing](#contributing)
+- [Data Collection](#data-collection)
+- [Data Exploration and Analysis](#data-exploration-and-analysis)
+- [Visualization and Interpretation](#visualization-and-interpretation)
+- [Dataset](#dataset)
+- [Contributing](#contributing)
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
 # Datasets
