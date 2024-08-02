@@ -41,10 +41,10 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 
 Once the data is collected, we perform the following tasks:
 
-**Data Cleaning:** Handle missing values, duplicate entries, and data types. Convert datetime for daily and monthly comparisons.
-**Data Exploration:** Calculate summary statistics and understand data distribution using histograms, box plots, and scatter plots.
-**Time-Series Analysis:** Analyze AQI trends over time for selected cities.
-**Comparative Analysis:** Compare AQI data across different cities or regions to identify areas with the best and worst air quality.
+-**Data Cleaning:** Handle missing values, duplicate entries, and data types. Convert datetime for daily and monthly comparisons.
+-**Data Exploration:** Calculate summary statistics and understand data distribution using histograms, box plots, and scatter plots.
+-**Time-Series Analysis:** Analyze AQI trends over time for selected cities.
+-**Comparative Analysis:** Compare AQI data across different cities or regions to identify areas with the best and worst air quality.
 # Visualization and Interpretation
 
 We create compelling visualizations to represent our findings using matplotlib and seaborn. These include:
