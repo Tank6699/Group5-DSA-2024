@@ -13,10 +13,12 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
 # Datasets
+
 - All the data sets are found in folder called NewCombined.
 - the data sets are downloaded from OPenAq website.
 - This data is only from 01 Jan-01 July 2024 only.
 - want to access the code we used for our project
+  
 # How to access the code
 - the file code for this project is named  "G_5_DSA_project.ipynb " you can acess it from files
 - To run succesfully the code,
@@ -26,12 +28,12 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
 # Datasets for this project
--All the data sets are found in folder called NewCombined.
--the data sets are downloaded from OPenAq website.
--This data is only from 01 Jan-01 July 2024 only.
--Detailed Analysis of LA, Bucharest and Molina de Segura can be found [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/Tanveer_Group_Compiled_.ipynb)
--Genral Analysis and procedure can be found in [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/LA_Bucharest/README.md)
--you can go to "G_5_DSA_project.ipynb " file if you want to access the code we used for our project
+- All the data sets are found in folder called NewCombined.
+- the data sets are downloaded from OPenAq website.
+- This data is only from 01 Jan-01 July 2024 only.
+- Detailed Analysis of LA, Bucharest and Molina de Segura can be found [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/Tanveer_Group_Compiled_.ipynb)
+- Genral Analysis and procedure can be found in [here](https://github.com/TanveerD1/Group5-DSA-2024/blob/main/LA_Bucharest/README.md)
+- you can go to "G_5_DSA_project.ipynb " file if you want to access the code we used for our project
 # About The Dataset
 ### Key Features
 - **Areas of Coverage:** Data from five stations,Nairobi, Los Angles,Bucharest,Madrid and Rome. and Also we ahve tried to include Nicosia, Suchang_Dong.
