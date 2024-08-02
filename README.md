@@ -4,6 +4,7 @@
 2. Tanveer Omar 670752 (TanveerD1)[here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
 3. Mitchel Makena 667413 (MMMakena)
 4. Peter Kidiga 671341 (kidigapeet)
+5. Ted Korir 670340 (tk2824)
 
 
 
