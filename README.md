@@ -12,15 +12,7 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 [Contributing](#contributing)
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
-# Datasets
--All the data sets are found in folder called NewCombined.
--the data sets are downloaded from OPenAq website.
--This data is only from 01 Jan-01 July 2024 only.
--want to access the code we used for our project
-# How to access the code
--the file code for this project is named  "G_5_DSA_project.ipynb " you can acess it from files
-_To run succesfully the code,
-1. go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024".
+
 # How to Access the Data
 
 **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
@@ -39,6 +31,11 @@ _To run succesfully the code,
 ### Access the Data
 - **API Access:** Programmatic access to the data via OpenAQ API.
 - **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
+# Datasets
+-All the data sets are found in folder called NewCombined.
+-the data sets are downloaded from OPenAq website.
+-This data is only from 01 Jan-01 July 2024 only.
+-want to access the code we used for our project
 
 # Data Exploration and Analysis
 
@@ -65,3 +62,7 @@ We then interpret the results and discuss potential reasons behind air quality t
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to our coding 
 standards and includes appropriate tests.
+# How to access the code
+-the file code for this project is named  "G_5_DSA_project.ipynb " you can acess it from files
+_To run succesfully the code,
+1. go to code>>copy the URL>>open VsCode>>shift+ctrl+p>>clone>>paste the URL>>enter>>select the "https://github.com/TanveerD1/Group5-DSA-2024" (The repository URL)>>Select local folder>>Make changes and commits>>Push Changes to gitHub.
