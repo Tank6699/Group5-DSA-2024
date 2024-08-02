@@ -4,13 +4,6 @@
 
 This project leverages OpenAQ, a comprehensive platform that aggregates and shares open air quality data globally, to conduct a detailed analysis of air quality indices (AQI). The primary goals are to identify trends, compare air quality across different regions, and investigate the impact of certain events (like holidays, wildfires, or policy changes) on air quality. The project uses Python's pandas for data manipulation, matplotlib and seaborn for data visualization, and sklearn for basic predictive modeling.
 
-## Contributors
-- Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
-    - La Air Quality Analysis
-    - Bucharest Air Quality Analysis
-    - Combined Analysis
--
--
 
 ## Table of Contents
 - [Data Collection](#data-collection)
@@ -18,6 +11,7 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 - [Visualization and Interpretation](#visualization-and-interpretation)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Data Collection
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
@@ -88,4 +82,5 @@ _To run succesfully the code,
 
 # Contributors
 1. Ambachow Kahsay 670550
-2. 
+2. Tanveer Omar 670752 [here](https://github.com/TanveerD1/Group5-DSA-2024/tree/main/LA_Bucharest)
+    
