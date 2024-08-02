@@ -11,7 +11,6 @@ This project leverages OpenAQ, a comprehensive platform that aggregates and shar
 [Dataset](#dataset)
 [Contributing](#contributing)
 ## Data Collection
-
 We use the OpenAQ API to collect AQI data from various cities. The dataset includes key pollutants such as PM2.5, PM10, CO, NO2, SO2, and O3. You can find the API documentation [here](https://docs.openaq.org/).
 # Datasets
 -All the data sets are found in folder called NewCombined.
@@ -23,6 +22,20 @@ We use the OpenAQ API to collect AQI data from various cities. The dataset inclu
 
 **OpenAQ API:** Use the API to filter data by date, location, and pollutant.
 **Downloadable Files:** OpenAQ provides periodic data dumps available for download [here](https://openaq.org/#/download).
+# Datasets
+-All the data sets are found in folder called NewCombined.
+-the data sets are downloaded from OPenAq website.
+-This data is only from 01 Jan-01 July 2024 only.
+-you can "G_5_DSA_project.ipynb " file if you want to access the code we used for our project
+# About The Dataset
+### Key Features
+- **Areas of Coverage:** Data from five stations,Nairobi, Los Angles,Bucharest,Madrid and Rome. and Also we ahve tried to include Nicosia, Suchang_Dong.
+- **Pollutants Measured:** PM2.5, PM10, CO, NO2, SO2, O3, and more.
+- **Open and Free:** Available for educational and research purposes.
+
+### Access the Data
+- **API Access:** Programmatic access to the data via OpenAQ API.
+- **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
 
 # Data Exploration and Analysis
 
@@ -42,17 +55,6 @@ We create compelling visualizations to represent our findings using matplotlib a
 - Pie charts for parameter distribution and trend graphs.
 
 We then interpret the results and discuss potential reasons behind air quality trends and differences between cities or regions.
-# About The Dataset
-
-### Key Features
-- **Global Coverage:** Data from thousands of stations worldwide.
-- **Pollutants Measured:** PM2.5, PM10, CO, NO2, SO2, O3, and more.
-- **Open and Free:** Available for educational and research purposes.
-
-### Access the Data
-- **API Access:** Programmatic access to the data via OpenAQ API.
-- **Data Dumps:** Periodic data dumps available for download from the OpenAQ website or GitHub.
-
 ## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request with your changes. Ensure that your code adheres to our coding 
